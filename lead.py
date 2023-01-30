@@ -189,18 +189,13 @@ axes[4,3].plot(X20,Y20)
 
 plt.show()
 
-#Step 5 Make predictions from the data (machine learning)
-#given that this is time series data I think a basic linear or loggistic regression would be most effective at making predictions
 
+#step 5 we can augment new data from other sources to try and determine why some regeions have higher lead levels than others 
+#(given that there tends to be an increase around 2008 i think it might be tied to economic factors)
 
-
-#step 6 we can augment new data from other sources to try and determine why some regeions have higher lead levels than others
-
-#step 7 lets test our prediction on new data (Model evaluation)
-
-#step 8 we can tell a story with this data and use our visuals & predections to help convey the message that we are trying to send
+#step 6 we can tell a story with this data and use our visuals & predections to help convey the message that we are trying to send
 #lets do this via statistical analysis (i.e is there a correlation between lead and economic hardship)
 
-#step 9 Analyse outliars and see what we can learn from them
+#step 7 Analyse outliars and see what we can learn from them
 
-#step 10 make suggestions that are feasible and can have the greatest impact with minimal costs
+#step 8 make suggestions that are feasible and can have the greatest impact with minimal costs
